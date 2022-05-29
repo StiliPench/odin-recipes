@@ -1,0 +1,38 @@
+#title {
+    color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.dot {
+    font-size: 22px;
+    text-align: center;
+}
+
+.recipe {
+    color:blueviolet;
+}
+
+.title {
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.picture {
+    width: 500px;
+    height: auto;
+}
+
+.mini-title {
+    text-align: left;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
